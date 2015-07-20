@@ -7,8 +7,8 @@ public class mn {
 
     }
 
-    public static void main(String[] args)
-    {
-        System.out.println("Hello, world");
+    public static void main(String[] args) {
+        System.out.println("Programmer Terminal");
+        Graphic graph = new Graphic();
     }
 }
